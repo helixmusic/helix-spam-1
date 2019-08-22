@@ -6,7 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("612738429603807257")
 setInterval(function() {
-channel.send(`akahelixmusic akahelixmusic akahelixmusic akahelixmusic akahelixmusic akahelixmusic akahelixmusic akahelixmusic akahelixmusic akahelixmusic akahelixmusic akahelixmusic akahelixmusic akahelixmusic akahelixmusic akahelixmusic `);
+channel.send(`wwefwkejfhwkjehfkwjehkwjehkwjhfwkjhdkwjehwkjfh `);
 }, 30)
 })
 
